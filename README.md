@@ -42,6 +42,8 @@ See the complete list in [`components_list`](components_list)
 - Alerts user with **buzzer** and **LED** when tank is full
 
 ---
+## code
+ [`code.ino`](code.ino)
 
 ## 🧠 Technologies Used
 
