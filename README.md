@@ -44,7 +44,7 @@ See the complete list in [`components_list`](components_list)
 ---
 ## 🛠️ Code
  [`code.ino`](code.ino)
-
+---
 ## 🧠 Technologies Used
 
 - Arduino UNO (ATmega328)
