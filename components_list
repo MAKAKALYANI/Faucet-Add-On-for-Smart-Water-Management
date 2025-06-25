@@ -1,0 +1,32 @@
+# 📦 Components List – Faucet Add-On System
+
+This is the complete hardware list used for the Faucet Smart Water Management System.
+
+---
+
+## 🧰 Core Components
+
+| Component                     | Quantity | Description                                        |
+|-------------------------------|----------|----------------------------------------------------|
+| **Arduino UNO (ATmega328)**  | 1        | Main microcontroller                               |
+| **Flow Sensor (YF-S201)**     | 1        | Measures real-time water flow rate                 |
+| **Ultrasonic Sensor (HC-SR04)** | 1      | Detects water level for filling mode               |
+| **Relay Module (5V)**         | 1        | Switches motor on/off automatically                |
+| **DC Water Pump**             | 1        | Dispenses water                                    |
+| **16x2 LCD Display**          | 1        | Shows usage data, water level, alerts              |
+| **IR Sensor** (optional)      | 1        | Optional input trigger                             |
+| **Buzzer**                    | 1        | Sounds alert on tank overflow                      |
+| **LED (Red)**                 | 1        | Visual overflow alert                              |
+| **Breadboard**                | 1        | Circuit prototyping                                |
+| **Jumpers & Wires**           | 10+      | Connections between components                     |
+| **Rubber Pipe + Faucet Adaptor** | 1    | Connects device to existing water outlet           |
+| **9V Battery or USB Power**   | 1        | Power supply for Arduino and sensors               |
+
+---
+
+## 📝 Notes
+
+- Calibration may be required for flow rate accuracy
+- Make sure ultrasonic sensor has direct line of sight to water surface
+- Relay must be rated according to pump voltage/current
+
