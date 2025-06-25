@@ -25,7 +25,7 @@ To address the global water crisis, this project introduces a **low-cost, sensor
 
 ## 🛠️ Hardware Components
 
-See the complete list in [`components_list.md`](components_list.md)
+See the complete list in [`components_list`](components_list)
 
 ---
 
